@@ -1,0 +1,21 @@
+Name,Conc.,Deep,Area,Data Source,Sample Types,Sampling Method,Distance,Daily Intake,Dialution
+Data 1,85,25,Jashore,Tubewell,2,Direct,20000,,1
+Data 2,86,25,Khulna,Tubewell,3,Indirect,100000,3,5
+Data 3,87,26,Dhaka,Nearby River ,2,Active,500000,4,10
+Data 4,85,27,Rajshahi,WASA supply ,4,Passive,300000,2,20
+Data 5,86,25,Chittagang,Nearby River ,2,Active,700000,5,1
+Data 6,87,26,Barishal,Tubewell,3,Passive,400000,,5
+Data 7,87,27,Jhinaidah,WASA supply ,4,Active,,3,10
+Data 8,86,27,Kushtia,Tubewell,2,Direct,70000,4,20
+Data 9,87,24,Meherppur,Nearby River ,4,Indirect,60000,5,10
+Data 10,85,28,Chuadanga,Tubewell,3,Direct,65000,2,10
+Data 11,85,25,Magura,WASA supply ,4,Active,,3,20
+Data 12,86,25,Bogura,WASA supply ,2,Active,300000,5,1
+Data 13,85,26,Nilfamari,Tubewell,4,Active,,,5
+Data 14,86,25,Faridpur,Tubewell,4,Passive,200000,3,10
+Data 15,87,27,Noakhali,Tubewell,3,Indirect,500000,5,10
+Data 16,85,25,Chandpur,Nearby River ,2,Indirect,,4,20
+Data 17,87,24,Narail,Tubewell,4,Direct,50000,,1
+Data 18,85,28,Pabna,Tubewell,4,Active,300000,6,10
+Data 19,87,25,Shylhet,Nearby River ,2,Direct,,,20
+Data 20,85,26,Jamalpur,Tubewell,3,Indirect,250000,4,20
